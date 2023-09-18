@@ -2,7 +2,7 @@
 
 ## Example
 
-- [Online example](http://chenjunhao.cn/react-user-guidance)
+- [Online example](http://chenjunhao.cn/projects/react-user-guidance)
 - local example
   ```sh
   $ git clone git@github.com:thomaschan/react-user-guidance.git
